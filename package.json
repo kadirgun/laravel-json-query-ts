@@ -1,6 +1,6 @@
 {
   "name": "laravel-json-query",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TypeScript library for Laravel JSON query",
   "homepage": "https://github.com/kadirgun/laravel-json-query-ts#readme",
   "repository": {
